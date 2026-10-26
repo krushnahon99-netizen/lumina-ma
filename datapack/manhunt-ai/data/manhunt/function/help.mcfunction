@@ -1,0 +1,10 @@
+tellraw @s {"text":"===== Manhunt AI (HeroBot) =====","color":"gold"}
+tellraw @s [{"text":"1. ","color":"gray"},{"text":"/function manhunt:runner","color":"yellow"},{"text":"  - make yourself the runner","color":"gray"}]
+tellraw @s [{"text":"2. ","color":"gray"},{"text":"/function manhunt:spawn {name:\"hunter1\"}","color":"yellow"},{"text":"  - spawn a hunter where you stand","color":"gray"}]
+tellraw @s [{"text":"3. ","color":"gray"},{"text":"/function manhunt:start","color":"yellow"},{"text":"  - start (runner gets a head start)","color":"gray"}]
+tellraw @s [{"text":"   ","color":"gray"},{"text":"/function manhunt:stop","color":"yellow"},{"text":"  - stop the hunt","color":"gray"}]
+tellraw @s [{"text":"   ","color":"gray"},{"text":"/function manhunt:remove","color":"yellow"},{"text":"  - remove all hunters","color":"gray"}]
+tellraw @s [{"text":"   ","color":"gray"},{"text":"/function manhunt:difficulty/easy | normal | hard","color":"yellow"}]
+tellraw @s [{"text":"   ","color":"gray"},{"text":"/function manhunt:headstart {seconds:30}","color":"yellow"}]
+tellraw @s [{"text":"   ","color":"gray"},{"text":"/function manhunt:debug","color":"yellow"},{"text":"  - show what each hunter is thinking","color":"gray"}]
+tellraw @s [{"text":"   ","color":"gray"},{"text":"/function manhunt:unrunner","color":"yellow"},{"text":"  - stop being a runner","color":"gray"}]

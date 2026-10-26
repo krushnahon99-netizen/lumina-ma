@@ -1,0 +1,1 @@
+{"criteria":{"kill":{"trigger":"minecraft:player_killed_entity","conditions":{"entity":{"type":"minecraft:ender_dragon"}}}},"rewards":{"function":"manhunt:game/dragon_killed"}}

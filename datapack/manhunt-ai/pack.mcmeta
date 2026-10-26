@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Manhunt AI hunters for HeroBot - /function manhunt:help",
+    "min_format": 94,
+    "max_format": 94
+  }
+}

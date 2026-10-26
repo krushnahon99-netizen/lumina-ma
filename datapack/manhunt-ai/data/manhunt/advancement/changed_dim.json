@@ -1,0 +1,1 @@
+{"criteria":{"dim":{"trigger":"minecraft:changed_dimension"}},"rewards":{"function":"manhunt:runner/changed_dim"}}
